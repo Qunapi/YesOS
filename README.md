@@ -26,5 +26,5 @@ If you want to insert your games/dos programs, you need to insert files into _fl
 If you have any questions about this project, I will be happy to help you to understand the basic concepts of
 Operating systems.
 
-- Email: phorwix@gmail.com
+- Email: and.yushkevich@gmail.com
 - Telegram: @qunapi
